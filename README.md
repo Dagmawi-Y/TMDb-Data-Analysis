@@ -1,4 +1,4 @@
-![Alt Text]([URL](https://storage.googleapis.com/kaggle-datasets-images/3323429/5784025/8fc99b7d120397a7a2eb7d5c0236ae02/dataset-cover.png?t=2023-05-26-16-43-02))
+![Alt Text](dataset-cover.png)
 # TMDb Movies Analysis
 
 ## Overview
