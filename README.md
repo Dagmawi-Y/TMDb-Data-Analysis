@@ -1,3 +1,4 @@
+![Alt Text](dataset-cover.png)
 # TMDb Movies Analysis
 
 ## Overview
